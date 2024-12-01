@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![snake gif](https://github.com/andersonr-odrigo/andersonr-odrigo/blob/output/github-contribution-grid-snake.gif)
 
-
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=andersonr-odrigo&repo=andersonr-odrigo&theme=react)](https://gitHub.com/andersonr-odrigo/andersonr-odrigo)
