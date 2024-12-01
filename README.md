@@ -1,6 +1,8 @@
 ## Hi there 👋
 
+
 <div style="display: inline_block"><br>
+  <h2>Stacks</h2>
   <img alt="Python" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img alt="HTML" height="30" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="30" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
