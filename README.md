@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Formado em Gestão da Tecnologia da Informação pela Faculdade de Tecnologia de Jundiaí. Atualmente trabalho com Python, Django, HTML, CSS e JavaScript.
+<p align="center">Formado em Gestão da Tecnologia da Informação pela Faculdade de Tecnologia de Jundiaí. Atualmente trabalho com Python, Django, React, React Native, Postgresql, etc.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.
   
 #
